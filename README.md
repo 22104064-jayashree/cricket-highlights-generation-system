@@ -1,5 +1,11 @@
-# cricket-highlights-generation-system
-Automated system to generate 10-minute cricket highlights using networking and embedded systems
+cricket-highlights-generation-system
+Developed by;
+JAYASHREE V(111522104064)
+ARUL MARIAMMAL N(111522104018)
+SANDHYA S(111522104185)
+ODURU DARSHITHA(111522104108)
+TALLAPALLI VARSHITHA(111522104151)
+(from RMD ENGINEERING COLLEGE)
 
 ## Overview
 This project automatically converts a full cricket match into a 10-minute highlight video using embedded systems, networking, and intelligent event detection.
