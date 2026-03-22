@@ -1,5 +1,5 @@
 ##cricket-highlights-generation-system
-**Developed by**;
+##**Developed by**;
 JAYASHREE V(111522104064)
 ARUL MARIAMMAL N(111522104018)
 SANDHYA S(111522104185)
